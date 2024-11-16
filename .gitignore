@@ -2,3 +2,4 @@ node_modules
 /frontend/node_modules
 backend/venv
 yolo5
+/backend/yolotmu.pt
