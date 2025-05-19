@@ -63,40 +63,40 @@ Replace with an actual image or GIF showcasing your project's functionality.
 ⚙️ Installation
 Backend Setup
 
-    Navigate to the backend directory:
+Navigate to the backend directory:
 
-cd backend
+    cd backend
 
 Create and activate a virtual environment (optional but recommended):
 
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 Install dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Run the Flask server:
 
     python server.py
 
-    The backend server will start on http://localhost:5000.
+The backend server will start on http://localhost:5000.
 
 Frontend Setup
 
-    Navigate to the frontend directory:
+Navigate to the frontend directory:
 
-cd frontend
+    cd frontend
 
 Install dependencies:
 
-npm install
+    npm install
 
 Start the development server:
 
     npm run dev
 
-    The frontend will be available at http://localhost:3000.
+The frontend will be available at http://localhost:3000.
 
 🧪 How It Works
 
